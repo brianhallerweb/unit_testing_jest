@@ -1,0 +1,22 @@
+{
+  "name": "unit_testing_jest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "db.js",
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brianhallerweb/unit_testing_jest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brianhallerweb/unit_testing_jest/issues"
+  },
+  "homepage": "https://github.com/brianhallerweb/unit_testing_jest#readme",
+  "devDependencies": {
+    "jest": "^22.4.3"
+  }
+}
